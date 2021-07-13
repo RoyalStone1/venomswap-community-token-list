@@ -1,6 +1,14 @@
 [
   {
     "chainId":1666600000,
+    "address":"0x13a8a53e0074df9b0df55a03d611d813fdaad867",
+    "symbol":"RBL",
+    "name":"Reble",
+    "decimals":18,
+    "logoURI":"https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/smiling-face-with-horns_1f608.png"
+  },
+  {
+    "chainId":1666600000,
     "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
     "symbol":"EUSK",
     "name":"Mintbes Token",
